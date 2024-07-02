@@ -1,4 +1,6 @@
-# git-practice
+(# git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
-mainで変更(コンフリクト起きるよ)
+=======
+no-fast-forwardで変更(conflictブランチで変更)
+>>>>>>> conflict
